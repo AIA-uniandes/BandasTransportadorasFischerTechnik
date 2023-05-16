@@ -1,4 +1,4 @@
-# Bandas Transportadoras
+# Bandas Transportadoras FischerTechnik
 Este repositorio contiene toda la información necesaria para el uso de las bandas transportadoras. Se incluye un [manual](Manual-de-Conexión-con-Python.pdf) para el uso del controlador TXT junto con una guía paso paso para el diseño de aplicaciones y conexión por medio de Python.
 ### Enlaces de interés
 - [Ejemplo práctico de una mini aplicación para el TXT controller](/Ejemplo) (Descargar el zip contenido en la carpeta).
